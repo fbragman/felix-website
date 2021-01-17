@@ -8,7 +8,7 @@ authors: [Felix Bragman*, Ryutaro Tanno*, Sebastien Ourselin, Daniel C. Alexande
 tags: [multi-task learning, representation learning, variational inference, filter groups]
 categories: []
 date: 2019-10-28
-featured: true
+featured: false
 abstract: "The performance of multi-task learning in Convolutional Neural Networks (CNNs) hinges on the design of feature sharing between tasks within the architecture. The number of possible sharing patterns are combinatorial in the depth of the network and the number of tasks, and thus hand-crafting an architecture, purely based on the human intuitions of task relationships can be time-consuming and suboptimal.\n 
 
 In this paper, we present a probabilistic approach to learning task-specific and shared representations in CNNs for multi-task learning. Specifically, we propose stochastic filter groups (SFG), a mechanism to assign convolution kernels in each layer to specialist or generalist groups, which are specific to or shared across different tasks, respectively.\n 

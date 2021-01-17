@@ -8,7 +8,7 @@ authors: [Felix Bragman, Jamie McCLelland, Joseph Jacobs, John Hurst and David J
 tags: []
 categories: []
 date: 2017-05-01T20:59:44+01:00
-featured: true
+featured: false
 abstract: "A fully automated, unsupervised lobe segmentation algorithm is presented based on a probabilistic segmentation of the fissures and the simultaneous construction of a population model of the fissures. A two-class probabilistic segmentation segments the lung into candidate fissure voxels and the surrounding parenchyma. This was combined with anatomical information and a groupwise fissure prior to drive non-parametric surface fitting to obtain the final segmentation.\n
 
 The performance of our fissure segmentation was validated on 30 patients from the chronic obstructive pulmonary disease COPDGene cohort, achieving a high median F 1 -score of 0.90 and showed general insensitivity to filter parameters. We evaluated our lobe segmentation algorithm on the Lobe and Lung Analysis 2011 dataset, which contains 55 cases at varying levels of pathology. We achieved the highest score of 0.884 of the automated algorithms. \n

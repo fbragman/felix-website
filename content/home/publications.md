@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 4
+weight: 2
 
 title: Selected Publications
-subtitle: 'For a complete list, please visit my Google Scholar webpage'
+subtitle: 'For a complete list, please visit my [Google Scholar webpage](https://scholar.google.com/citations?hl=en&user=0Qn2UvAAAAAJ&view_op=list_works&sortby=pubdate)'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 3
 ---
 
 {{% callout note %}}

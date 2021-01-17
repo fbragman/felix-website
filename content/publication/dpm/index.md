@@ -7,7 +7,7 @@ summary: "We identified subtypes of patients with COPD with distinct longitudina
 tags: []
 categories: []
 date: 2018-09-01T20:59:44+01:00
-featured: true
+featured: false
 authors: [Alexandra Young*, Felix Bragman*, Bojidar Rangelov, MeiLan Han, David Lynch, David J. Hawkes, Daniel C. Alexander and John R. Hurst]
 abstract: "**Rationale**: The decades-long progression of chronic obstructive pulmonary disease (COPD) renders identifying different trajectories of disease progression challenging.Objectives: To identify subtypes of patients with COPD with distinct longitudinal progression patterns using a novel machine-learning tool called Subtype and Stage Inference (SuStaIn) and to evaluate the utility of SuStaIn for patient stratification in COPD. \n 
 

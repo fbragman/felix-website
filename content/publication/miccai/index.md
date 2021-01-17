@@ -8,7 +8,7 @@ authors: [Felix Bragman, Ryutaro Tanno, Zach Eaton-Rosen, Wenqi Li, David J. Haw
 tags: []
 categories: []
 date: 2018-09-01T20:59:44+01:00
-featured: true
+featured: false
 abstract: "Multi-task neural network architectures provide a mechanism that jointly integrates information from distinct sources. It is ideal in the context of MR-only radiotherapy planning as it can jointly regress a synthetic CT (synCT) scan and segment organs-at-risk (OAR) from MRI. \n
 
 We propose a probabilistic multi-task network that estimates: 1) intrinsic uncertainty through a heteroscedastic noise model for spatially-adaptive task loss weighting and 2) parameter uncertainty through approximate Bayesian inference. This allows sampling of multiple segmentations and synCTs that share their network representation. \n
