@@ -22,24 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Research Scientist   
+    company: Babylon Health
+    company_url: 'https://www.babylonhealth.com/'
+    date_start: '2019-06-03'
     date_end: ''
     description: |2-
-        Responsibilities include:
+          Developing machine learning models to help build products for AI-driven health care. Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+            * Developing tools to learn patient representations from health data for dynamic risk stratification
+            * Researching methods across fair representation learning, domain generalisation and modularity in neural networks
+            * Contributing scientific insight towards long-term strategic product vision
         
-  - title: Professor
-    company: University X
+  - title: Research Associate
+    company: University College London
     company_url: ''
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start = "2017-06-01"
+    date_end = "2019-06-02"
+    description: |2-
+          Deep learning and multi-task learning algorithms for computer vision and medical image computing.
+
+              * Researched and developed fundamental methods for multi-task learning applied to computer vision and medical image computing
+              * Applied algorithms to a range of applications such as MR to CT image synthesis and organ-at-risk segmentation in MR-only radiotherapy planning
+              * Work published as orals at MICCAI 2018 and ICCV 2019
+              * Contributed to NiftyNet: an open-source Tensorflow library for deep learning in medical image analysis
+
+
 ---
