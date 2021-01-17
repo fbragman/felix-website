@@ -38,8 +38,8 @@ experience:
     company: University College London
     company_url: ''
     location: California
-    date_start = "2017-06-01"
-    date_end = "2019-06-02"
+    date_start: "2017-06-01"
+    date_end: "2019-06-02"
     description: |2-
           Deep learning and multi-task learning algorithms for computer vision and medical image computing.
 
