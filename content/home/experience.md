@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.babylonhealth.com/'
     date_start: '2019-06-03'
     date_end: ''
-    description: |2-
+    description: 
           Developing machine learning models to help build products for AI-driven health care. Responsibilities include:
         
             * Developing tools to learn patient representations from health data for dynamic risk stratification
@@ -40,7 +40,7 @@ experience:
     location: California
     date_start: "2017-06-01"
     date_end: "2019-06-02"
-    description: |2-
+    description: 
           Deep learning and multi-task learning algorithms for computer vision and medical image computing.
 
               * Researched and developed fundamental methods for multi-task learning applied to computer vision and medical image computing
