@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 4
 
-title: Recent Publications
-subtitle: ''
+title: Selected Publications
+subtitle: 'For a complete list, please visit my Google Scholar webpage'
 
 content:
   # Page type to display. E.g. post, talk, publication...

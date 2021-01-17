@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 3
 
 title: Experience
 subtitle:
@@ -36,17 +36,17 @@ experience:
         
   - title: Research Associate
     company: University College London
-    company_url: ''
-    location: California
+    company_url: 'https://www.ucl.ac.uk/medical-image-computing/'
+    location: 
     date_start: "2017-06-01"
     date_end: "2019-06-02"
     description: |2-
       Deep learning and multi-task learning algorithms for computer vision and medical image computing.
 
-          * Researched and developed fundamental methods for multi-task learning applied to computer vision and medical image computing
-          * Applied algorithms to a range of applications such as MR to CT image synthesis and organ-at-risk segmentation in MR-only radiotherapy planning
-          * Work published as orals at MICCAI 2018 and ICCV 2019
-          * Contributed to NiftyNet: an open-source Tensorflow library for deep learning in medical image analysis
+      * Researched and developed fundamental methods for multi-task learning applied to computer vision and medical image computing
+      * Applied algorithms to a range of applications such as MR to CT image synthesis and organ-at-risk segmentation in MR-only radiotherapy planning
+      * Work published as orals at MICCAI 2018 and ICCV 2019
+      * Contributed to NiftyNet: an open-source Tensorflow library for deep learning in medical image analysis
 
 
 ---
