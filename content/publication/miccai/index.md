@@ -22,9 +22,10 @@ url_poster: "files/miccai_poster.pdf"
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: "smart"
+  caption: "Uncertainty aware multi-task learning"
+  focal_point: "center"
   preview_only: false
+  placement: 1
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

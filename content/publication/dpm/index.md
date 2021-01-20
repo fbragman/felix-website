@@ -24,14 +24,15 @@ url_pdf: "https://discovery.ucl.ac.uk/id/eprint/10085101/7/Hurst_Disease%20Progr
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: "smart"
+  caption: "Unsupervised patient subtyping via disease progression modelling"
+  focal_point: "Center"
   preview_only: false
+  placement: 1
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["copd"]
+projects: []
 ---

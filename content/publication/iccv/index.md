@@ -26,7 +26,8 @@ url_poster: "files/iccv_poster.pdf"
 image:
   caption: "Probabilistic sampling of feature groups"
   preview_only: false
-  focal_pont: "smart"
+  focal_pont: "Center"
+  placement: 1
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

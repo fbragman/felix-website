@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:felixbragman@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FelixJSB
@@ -71,9 +71,9 @@ user_groups:
 - Visitors
 ---
 
-Hey. My name is Felix and I am currently a research scientist in the AI Research Team at [Babylon Health](https://www.babylonhealth.com/ai/learn-more).
+Hey! My name is Felix and I am currently a research scientist in the AI Research Team at [Babylon Health](https://www.babylonhealth.com/ai/learn-more).
 
-My current work is focused on researching machine learning models for AI-driven healthcare. I have been researching methods that learn fair representations to train unbiased predictive tools. I have also been researching methods for representation learning from electronic health records to improve our potential for precision medicine.
+My current work is focused on researching and developing machine learning models for AI-driven healthcare. In particular, I am researching methods for learning patient representations from health records and for ensuring these representations generalise to unseen domains. 
 
 Before joining Babylon Health, I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning with applications in computer vision and medical image computing. I developed multiple learning schemes for multi-task learning, with oral presentations at MICCAI 2018 and ICCV 2019.
 
