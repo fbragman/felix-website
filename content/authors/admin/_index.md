@@ -80,5 +80,3 @@ My current work is focused on developing machine learning models for AI-driven h
 Before joining Babylon Health, I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning with applications in computer vision and medical image computing. I developed multiple learning schemes for multi-task learning, with oral presentations at MICCAI 2018 and ICCV 2019.
 
 Previously, I was a PhD student under the supervision of [Prof. David Hawkes](https://iris.ucl.ac.uk/iris/browse/profile?upi=DJHAW78) at CMIC UCL and [Prof. John Hurst](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHURS15) at the Royal Free Hospital. I developed numerous algorithms for the quantitative analysis of Chronic Obstructive Pulmonary Disease (COPD) from three-dimensional Computed Tomography scans.
-
-#You can find an up-to date version of my [CV](files/cv.pdf).
