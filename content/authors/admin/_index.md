@@ -24,7 +24,7 @@ interests:
 - Representation Learning
 - Multi-task Learning
 - Modular Neural Networks
-- Generative Modelling
+- Medical Image Computing
 
 education:
   courses:
@@ -75,7 +75,7 @@ user_groups:
 
 Hey! My name is Felix and I am currently a Senior Research Scientist in the AI Research Team at [Babylon Health](https://www.babylonhealth.com/ai/learn-more).
 
-My current work is focused on developing machine learning models for AI-driven healthcare. In particular, I am researching novel methods to learn patient representations from health records and for ensuring these representations generalise to unseen domains. 
+My current work is focused on developing machine learning models for AI-driven healthcare. In particular, I am researching novel methods to learn patient representations from health records and for ensuring these representations generalise to unseen domains. I am also interested in developing new algorithms to learn modular and disentangled representations across a wide range of applications such as multi-task and continual learning. 
 
 Before joining Babylon Health, I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning with applications in computer vision and medical image computing. I developed multiple learning schemes for multi-task learning, with oral presentations at MICCAI 2018 and ICCV 2019.
 
