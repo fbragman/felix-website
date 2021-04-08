@@ -12,7 +12,7 @@ authors = ['Felix Bragman']
 all_day = false
 
 # Location of event.
-location = "London, United Kingdom"
+location = "Paris, France"
 
 # Name of event and optional event URL.
 event = "European Respiratory Society International Congress"
