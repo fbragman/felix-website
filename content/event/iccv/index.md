@@ -19,7 +19,7 @@ event = "ICCV 2019"
 event_url = "http://iccv2019.thecvf.com/"
 
 # Abstract. What's your talk about?
-abstract = "Oral at International Conference in Computer Vision 2019"
+abstract = "Oral presentation at the International Conference in Computer Vision 2019"
 
 # Summary. An optional shortened abstract.
 summary = ""

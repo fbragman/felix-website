@@ -1,6 +1,6 @@
 +++
 title = "Disease progression patterns in COPD"
-date = 2018-08-29 # Schedule page publish date.
+date = 2018-09-15 # Schedule page publish date.
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ['Felix Bragman']
