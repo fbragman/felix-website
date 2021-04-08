@@ -19,7 +19,7 @@ event = "MICCAI 2018"
 event_url = "https://www.miccai2018.org/en/"
 
 # Abstract. What's your talk about?
-abstract = "Oral at Medical Image Computing and Computer Assisted Interventions (MICCAI) 2018"
+abstract = "Oral presentation at the Medical Image Computing and Computer Assisted Interventions (MICCAI) conference 2018"
 
 # Summary. An optional shortened abstract.
 summary = ""
