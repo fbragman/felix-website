@@ -8,7 +8,18 @@ tags: []
 categories: []
 date: 2018-09-01T20:59:44+01:00
 featured: false
-authors: [Alexandra Young*, Felix Bragman*, Bojidar Rangelov, MeiLan Han, David Lynch, David J. Hawkes, Daniel C. Alexander and John R. Hurst]
+authors: 
+- Alexandra Young
+- Felix Bragman 
+- Bojidar Rangelov
+- MeiLan Han
+- David Lynch
+- David J. Hawkes
+- Daniel C. Alexander
+- John R. Hurst
+author_notes:
+- Equal contributions
+- Equal contributions
 abstract: "**Rationale**: The decades-long progression of chronic obstructive pulmonary disease (COPD) renders identifying different trajectories of disease progression challenging.Objectives: To identify subtypes of patients with COPD with distinct longitudinal progression patterns using a novel machine-learning tool called Subtype and Stage Inference (SuStaIn) and to evaluate the utility of SuStaIn for patient stratification in COPD. \n 
 
 **Methods**: We applied SuStaIn to cross-sectional computed tomography imaging markers in 3,698 Global Initiative for Chronic Obstructive Lung Disease (GOLD) 1-4 patients and 3,479 controls from the COPDGene (COPD Genetic Epidemiology) study to identify subtypes of patients with COPD. We confirmed the identified subtypes and progression patterns using ECLIPSE (Evaluation of COPD Longitudinally to Identify Predictive Surrogate Endpoints) data. We assessed the utility of SuStaIn for patient stratification by comparing SuStaIn subtypes and stages at baseline with longitudinal follow-up data. \n

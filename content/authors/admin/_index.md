@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Felix J.S. Bragman
+name: Felix Bragman
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist
+role: Senior Research Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -63,6 +63,8 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
+highlight_name: true
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -71,12 +73,10 @@ user_groups:
 - Visitors
 ---
 
-Hey! My name is Felix and I am currently a research scientist in the AI Research Team at [Babylon Health](https://www.babylonhealth.com/ai/learn-more).
+Hey! My name is Felix and I am currently a Senior Research Scientist in the AI Research Team at [Babylon Health](https://www.babylonhealth.com/ai/learn-more).
 
-My current work is focused on researching and developing machine learning models for AI-driven healthcare. In particular, I am researching methods for learning patient representations from health records and for ensuring these representations generalise to unseen domains. 
+My current work is focused on developing machine learning models for AI-driven healthcare. In particular, I am researching novel methods to learn patient representations from health records and for ensuring these representations generalise to unseen domains. 
 
 Before joining Babylon Health, I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning with applications in computer vision and medical image computing. I developed multiple learning schemes for multi-task learning, with oral presentations at MICCAI 2018 and ICCV 2019.
 
 Previously, I was a PhD student under the supervision of [Prof. David Hawkes](https://iris.ucl.ac.uk/iris/browse/profile?upi=DJHAW78) at CMIC UCL and [Prof. John Hurst](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHURS15) at the Royal Free Hospital. I developed numerous algorithms for the quantitative analysis of Chronic Obstructive Pulmonary Disease (COPD) from three-dimensional Computed Tomography scans.
-
-You can find an up-to date version of my [CV](files/cv.pdf).
