@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research Scientist
+role: Principal AI Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Babylon Health
-  url: "https://www.babylonhealth.com/"
+- name: Medtronic, Digiital Surgery
+  url: "https://digitalsurgery.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
