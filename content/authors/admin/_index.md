@@ -75,10 +75,10 @@ user_groups:
 
 Hey! My name is Felix and I am currently a Principal AI Engineer at Medtronic, Digital Surgery.
 
-I am currently researching machine learning and computer vision methods for visual reasoning from surgical videos for surgical robotics such as through multi-task learning and temporal modelling. 
+I am currently researching machine learning and computer vision methods for visual reasoning for surgical robotics through multi-task learning and temporal modelling. 
 
-Previously, I was at Babylon Health where I was researching methods for learning patient representations from health records whilst researching methods across modular and disentangled representation learning.
+Previously, I was at Babylon Health where I was developing methods for learning patient representations from health records whilst researching methods across modular and disentangled representation learning.
 
-Before joining Babylon Health, I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning. I developed multiple learning schemes for multi-task learning, with oral presentations at [MICCAI 2018](https://arxiv.org/pdf/1806.06595.pdf) and [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bragman_Stochastic_Filter_Groups_for_Multi-Task_CNNs_Learning_Specialist_and_Generalist_ICCV_2019_paper.pdf).
+Before Babylon Health, I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning. I developed multiple learning schemes for multi-task learning, with oral presentations at [MICCAI 2018](https://arxiv.org/pdf/1806.06595.pdf) and [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bragman_Stochastic_Filter_Groups_for_Multi-Task_CNNs_Learning_Specialist_and_Generalist_ICCV_2019_paper.pdf).
 
 Previously, I was a PhD student under the supervision of [Prof. David Hawkes](https://iris.ucl.ac.uk/iris/browse/profile?upi=DJHAW78) at CMIC UCL and [Prof. John Hurst](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHURS15) at the Royal Free Hospital. I developed numerous algorithms for the quantitative analysis of Chronic Obstructive Pulmonary Disease (COPD) from three-dimensional Computed Tomography scans.
