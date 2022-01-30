@@ -73,9 +73,11 @@ user_groups:
 - Visitors
 ---
 
-Hey! My name is Felix and I am currently a Senior Research Scientist in the AI Research Team at [Babylon Health](https://www.babylonhealth.com/ai/learn-more).
+Hey! My name is Felix and I am currently a Principal AI Engineer at Medtronic, Digital Surgery.
 
-I am currently developing machine learning models for AI-driven healthcare. In particular, I am researching novel methods to learn patient representations from health records and for ensuring these representations generalise to unseen domains. I am also researching algorithms to learn modular and disentangled representations across a wide range of applications such as multi-task and continual learning. 
+I am currently researching machine learning and computer vision methods for visual reasoning from surgical videos for surgical robotics such as through multi-task learning and temporal modelling. 
+
+Previously, I was at Babylon Health where I was researching methods for learning patient representations from health records whilst researching methods across modular and disentangled representation learning.
 
 Before joining Babylon Health, I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning. I developed multiple learning schemes for multi-task learning, with oral presentations at [MICCAI 2018](https://arxiv.org/pdf/1806.06595.pdf) and [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bragman_Stochastic_Filter_Groups_for_Multi-Task_CNNs_Learning_Specialist_and_Generalist_ICCV_2019_paper.pdf).
 
