@@ -14,7 +14,7 @@ role: Principal AI Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Medtronic, Digiital Surgery
+- name: Medtronic, Digital Surgery
   url: "https://digitalsurgery.com/"
 
 # Short bio (displayed in user profile at end of posts)
