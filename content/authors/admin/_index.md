@@ -23,12 +23,12 @@ bio:
 interests:
 - Representation Learning
 - Multi-task Learning
-- Modular Neural Networks
-- Medical Image Computing
+- Modular/Mixture of Expert Models
+- Sparse Neural Networks
 
 education:
   courses:
-  - course: PhD in Medical Image Computing
+  - course: PhD in Medical Computer Vision
     institution: University College London
     year: 2017
   - course: MSc in Biomedical Engineering
@@ -73,12 +73,12 @@ user_groups:
 - Visitors
 ---
 
-Hey! My name is Felix and I am currently a Principal AI Engineer at Medtronic, Digital Surgery.
+Hey! My name is Felix and I am currently a Principal AI Scientist/Engineer within Surgical Robotics at Medtronic.
 
-I am currently researching machine learning and computer vision methods for visual reasoning for surgical robotics using multi-task learning and self-supervision. 
+I am currently researching machine learning and computer vision methods for visual reasoning for surgical robotics. In particular; I focus on the development of novel transformer architectures for multi-task learning whilst investigate how to better leverage semi-supervision for spatiotemporal modelling. I have helped develop novel models to power real-time surgical video processing algorithms and have written production ready code for deploying and exporting our models.
 
-Previously, I was at Babylon Health where I was developing methods for learning patient representations from health records whilst researching methods across modular and disentangled representation learning.
+Previously, I was at Babylon Health where I was developing methods for learning patient representations from health records whilst also researching methods across modular and disentangled representation learning.
 
 Before Babylon Health, I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning. I developed multiple learning schemes for multi-task learning, with oral presentations at [MICCAI 2018](https://arxiv.org/pdf/1806.06595.pdf) and [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bragman_Stochastic_Filter_Groups_for_Multi-Task_CNNs_Learning_Specialist_and_Generalist_ICCV_2019_paper.pdf).
 
-I initially was a PhD student under the supervision of [Prof. David Hawkes](https://iris.ucl.ac.uk/iris/browse/profile?upi=DJHAW78) at CMIC UCL and [Prof. John Hurst](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHURS15) at the Royal Free Hospital. I developed numerous algorithms for the quantitative analysis of Chronic Obstructive Pulmonary Disease (COPD) from three-dimensional Computed Tomography scans.
+I initially was a PhD student under the supervision of [Prof. David Hawkes](https://iris.ucl.ac.uk/iris/browse/profile?upi=DJHAW78) at CMIC UCL and [Prof. John Hurst](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHURS15) at the Royal Free Hospital. I developed numerous algorithms for the quantitative analysis of Chronic Obstructive Pulmonary Disease (COPD) from three-dimensional Computed Tomography scans using supervised and unsupervised learning methods.

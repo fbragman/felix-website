@@ -28,7 +28,7 @@ experience:
     date_start: "2021-11-01"
     date_end: ''
     description: |2-
-      Developing machine learning models to help build products for AI-driven health care. 
+      Developing machine learning models for processing surgical videos for AI-assisted surgery.
       Responsibilities include:
       
         * Researching and developing machine learning algorithms to process surgical videos
