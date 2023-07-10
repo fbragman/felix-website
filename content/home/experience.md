@@ -25,7 +25,7 @@ experience:
     - title: Principal AI Scientist/Engineer   
     company: Medtronic, Surgical Robotics
     company_url: 'https://www.medtronic.com/covidien/en-gb/products/digital-surgery.html?sfdcid=7014O000001JF3G&cid=PPC:GOOG:%2Btouch%20%2Bsurgery%20%2Bmedtronic:ras-hugo&ef_id=CjwKCAjw2K6lBhBXEiwA5RjtCURwi_Fzxqer3WneVRPlgDTSO4X3gDsuh114fh2wCoPo1ERMbvyzRxoCiesQAvD_BwE:G:s&s_kwcid=AL!18272!3!525862558723!b!!g!!%2Btouch%20%2Bsurgery%20%2Bmedtronic!12117747053!118230064924'
-    date_start: '2019-06-03'
+    date_start: '2021-11-01'
     date_end: ''
     description: |2-
       Developing machine learning models to help build products for AI-driven health care. 
@@ -34,12 +34,12 @@ experience:
         * Researching and developing machine learning algorithms to process surgical videos:
         * Contributing production-ready code for R\&D and deployment of models for production
         * Responsible for supervision of junior team members and UCL Machine Learning MSc students
-        
+
   - title: Senior Research Scientist   
     company: Babylon Health
     company_url: 'https://www.babylonhealth.com/'
-    date_start: '2019-06-03'
-    date_end: ''
+    date_start: '2021-11-01'
+    date_end: '2'
     description: |2-
       Developing machine learning models to help build products for AI-driven health care. Responsibilities include:
     
