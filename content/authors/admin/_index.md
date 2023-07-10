@@ -75,7 +75,7 @@ user_groups:
 
 Hey! My name is Felix and I am currently a Principal AI Scientist/Engineer within Surgical Robotics at Medtronic.
 
-I am currently researching machine learning and computer vision methods for visual reasoning for surgical robotics. In particular; I focus on the development of novel transformer architectures for multi-task learning whilst investigate how to better leverage semi-supervision for spatiotemporal modelling. I have helped develop novel models to power real-time surgical video processing algorithms and have written production ready code for deploying and exporting our models.
+I am currently researching machine learning and computer vision methods for visual reasoning for surgical robotics. In particular; I focus on the development of novel transformer architectures for multi-task learning whilst I also investigate spatiotemporal models and the use of semi-supervision for training. I have also helped develop novel models to power real-time surgical video processing algorithms and have written production ready code for deploying and exporting our models.
 
 Previously, I was at Babylon Health where I was developing methods for learning patient representations from health records whilst also researching methods across modular and disentangled representation learning.
 
