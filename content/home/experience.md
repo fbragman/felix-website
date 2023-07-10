@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-    - title: Principal AI Scientist/Engineer   
+  - title: Principal AI Scientist/Engineer   
     company: Medtronic, Surgical Robotics
     company_url: 'https://www.medtronic.com/covidien/en-gb/products/digital-surgery.html?sfdcid=7014O000001JF3G&cid=PPC:GOOG:%2Btouch%20%2Bsurgery%20%2Bmedtronic:ras-hugo&ef_id=CjwKCAjw2K6lBhBXEiwA5RjtCURwi_Fzxqer3WneVRPlgDTSO4X3gDsuh114fh2wCoPo1ERMbvyzRxoCiesQAvD_BwE:G:s&s_kwcid=AL!18272!3!525862558723!b!!g!!%2Btouch%20%2Bsurgery%20%2Bmedtronic!12117747053!118230064924'
     date_start: '2021-11-01'
