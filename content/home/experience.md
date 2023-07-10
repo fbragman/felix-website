@@ -31,7 +31,7 @@ experience:
       Developing machine learning models to help build products for AI-driven health care. 
       Responsibilities include:
       
-        * Researching and developing machine learning algorithms to process surgical videos:
+        * Researching and developing machine learning algorithms to process surgical videos
         * Contributing production-ready code for R\&D and deployment of models for production
         * Responsible for supervision of junior team members and UCL Machine Learning MSc students
 
