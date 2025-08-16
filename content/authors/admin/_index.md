@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Applied Scientsit
+role: Applied Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -24,7 +24,7 @@ interests:
 - Representation Learning
 - Multi-task Learning
 - Modular/Mixture of Expert Models
-- Sparse Neural Networks
+- Efficient ML
 
 education:
   courses:
@@ -73,12 +73,10 @@ user_groups:
 - Visitors
 ---
 
-Hey! My name is Felix and I am currently a Principal AI Scientist/Engineer within Surgical Robotics at Medtronic.
+Hey! My name is Felix and I am currently an Applied Scientist at Wayve working on efficient ML and foundational models for autonomous driving.
 
-I am currently researching machine learning and computer vision methods for visual reasoning for surgical robotics. In particular; I focus on the development of novel transformer architectures for multi-task learning whilst I also investigate spatiotemporal models and the use of semi-supervision for training. I have also helped develop novel models to power real-time surgical video processing algorithms and have written production ready code for training, validating, deploying and exporting our models.
+Previously, I was a Principal Engineer at Medtronic within the Surgical Robotics AI Centre of Excellence. I was the AI tech lead for the development of a real-time intraoperative surgical guidance model. I also led and conducted fundamental AI research for real-time AI models across efficient ML, long-context modelling, temporal multi-task learning and video instance segmentation. Before Medtronic, I was in the AI Research Team at Babylon Health where I was researching methods across GNNs and language models for learning patient representations from electronic health records.
 
-Previously, I was at Babylon Health where I was developing methods for learning patient representations from health records whilst also researching methods across modular and disentangled representation learning.
-
-Before Babylon Health, I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning. I developed multiple learning schemes for multi-task learning, with oral presentations at [MICCAI 2018](https://arxiv.org/pdf/1806.06595.pdf) and [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bragman_Stochastic_Filter_Groups_for_Multi-Task_CNNs_Learning_Specialist_and_Generalist_ICCV_2019_paper.pdf).
+I was a post-doc at UCL working with [M. Jorge Cardoso](https://www.kcl.ac.uk/people/jorge-cardoso) where I developed fundamental methods in deep learning and multi-task learning. I developed multiple learning schemes for multi-task learning, with oral presentations at [MICCAI 2018](https://arxiv.org/pdf/1806.06595.pdf) and [ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Bragman_Stochastic_Filter_Groups_for_Multi-Task_CNNs_Learning_Specialist_and_Generalist_ICCV_2019_paper.pdf).
 
 I initially was a PhD student under the supervision of [Prof. David Hawkes](https://iris.ucl.ac.uk/iris/browse/profile?upi=DJHAW78) at CMIC UCL and [Prof. John Hurst](https://iris.ucl.ac.uk/iris/browse/profile?upi=JHURS15) at the Royal Free Hospital. I developed numerous algorithms for the quantitative analysis of Chronic Obstructive Pulmonary Disease (COPD) from three-dimensional Computed Tomography scans using supervised and unsupervised learning methods.
