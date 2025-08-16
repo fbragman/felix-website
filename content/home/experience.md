@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Applied Scientist
     company: Wayve 
-    company_url: https://wayve.ai/
+    company_url: "https://wayve.ai/"
     date_start: "2025-07-07"
     date_end: ""
     description: |2-
