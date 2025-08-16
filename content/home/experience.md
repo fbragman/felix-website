@@ -22,31 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Applied Scientist
+    company: Wayve 
+    company_url: https://wayve.ai/
+    date_start: "2025-07-07"
+    date_end: "2"
+    description: |2-
+      Making foundational models faster and more efficient for autonomous vehicles
   - title: Principal AI Scientist/Engineer   
     company: Medtronic, Surgical Robotics
     company_url: 'https://www.medtronic.com/covidien/en-gb/products/digital-surgery.html?sfdcid=7014O000001JF3G&cid=PPC:GOOG:%2Btouch%20%2Bsurgery%20%2Bmedtronic:ras-hugo&ef_id=CjwKCAjw2K6lBhBXEiwA5RjtCURwi_Fzxqer3WneVRPlgDTSO4X3gDsuh114fh2wCoPo1ERMbvyzRxoCiesQAvD_BwE:G:s&s_kwcid=AL!18272!3!525862558723!b!!g!!%2Btouch%20%2Bsurgery%20%2Bmedtronic!12117747053!118230064924'
     date_start: "2021-11-01"
-    date_end: ''
+    date_end: "2025-05-30"
     description: |2-
       Developing machine learning models for processing surgical videos for AI-assisted surgery.
-      Responsibilities include:
-      
-        * Researching and developing machine learning algorithms to process surgical videos
-        * Contributing production-ready code for R\&D and deployment of models for production
-        * Responsible for supervision of junior team members and UCL Machine Learning MSc students
-
   - title: Senior Research Scientist   
     company: Babylon Health
     company_url: 'https://www.babylonhealth.com/'
     date_start: "2019-06-02"
     date_end: '2021-11-01'
     description: |2-
-      Developing machine learning models to help build products for AI-driven health care. Responsibilities include:
-    
-        * Developing tools to learn patient representations from health data for dynamic risk stratification
-        * Researching methods across fair representation learning, domain generalisation and modularity in neural networks
-        * Contributing scientific insight towards long-term strategic product vision
-        
+      Developing machine learning models to help build products for AI-driven health care.
   - title: Research Associate
     company: University College London
     company_url: 'https://www.ucl.ac.uk/medical-image-computing/'
@@ -54,11 +50,4 @@ experience:
     date_end: "2019-06-02"
     description: |2-
       Deep learning and multi-task learning algorithms for computer vision and medical image computing.
-
-      * Researched and developed fundamental methods for multi-task learning applied to computer vision and medical image computing
-      * Applied algorithms to a range of applications such as MR to CT image synthesis and organ-at-risk segmentation in MR-only radiotherapy planning
-      * Work published as orals at MICCAI 2018 and ICCV 2019
-      * Contributed to NiftyNet: an open-source Tensorflow library for deep learning in medical image analysis
-
-
 ---
