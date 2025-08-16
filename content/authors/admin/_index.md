@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Principal AI Engineer
+role: Applied Scientsit
 
 # Organizations/Affiliations
 organizations:
-- name: Medtronic, Surgical Robotics
-  url: "https://www.medtronic.com/covidien/en-gb/robotic-assisted-surgery/hugo-ras-system/products-and-system.html"
+- name: Wayve
+  url: "https://wayve.ai/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
